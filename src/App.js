@@ -22,7 +22,7 @@ class App extends React.Component {
     // const article= xy.map( final => <Item key={final.id} id={final.id} title={final.title} />)
     return(
         <div>
-        
+        <h1>hello</h1>
         <Table />
         {article}
 
